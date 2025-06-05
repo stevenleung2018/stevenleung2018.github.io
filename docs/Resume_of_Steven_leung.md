@@ -8,20 +8,20 @@
 
 ## PROFESSIONAL SUMMARY
 
--   1 year and 8 months of experience as Wildlife Application Specialist
-    at Canadian Wildlife Service (CWS), Environment and Climate Change
-    Canada (ECCC).
+-   1 year and 11 months of experience as Wildlife Application
+    Specialist at Canadian Wildlife Service (CWS), Environment and
+    Climate Change Canada (ECCC).
 -   Classification:
-    -   Substantively PC-02
+    -   Substantively PC-02 (Wildlife Application Specialist with ECCC)
     -   Qualified in a partially-assessed pool for EC-03 (Data
         Scientist/Data Engineer/Data Analyst) with Public Health Agency
         of Canada (PHAC)
     -   Qualified in a fully-assessed pool for IT-02 (IT Analyst) with
         Shared Services Canada (SSC)
 -   Security: Reliability
--   1 year and 8 months of experience in data transformation/analysis
+-   1 year and 11 months of experience in data transformation/analysis
     and machine learning in Python and SQL
--   4.5+ years of data & analytics client-facing consultancy experience
+-   4.5+ years of data science client-facing consultancy experience
 -   10+ years of experience as project management/technical consultancy
 -   Master of Data Science, UBC
 -   Project Management Professional (PMP) certified since 2017
@@ -51,8 +51,8 @@
 -   Managed P&L of Sales with a focus on HPC and AI/ML/Analytics
     technologies, surpassing AI & Analytics targets in FY 2018-19
     through strategic market segmentation and partnership development.
--   Crafted complex RFP responses in collaboration with the data science
-    team and external partners, securing lucrative contracts.
+-   Secured lucrative contracts by crafting complex RFP responses in
+    collaboration with the data science team and external partners.
 
 ### Regional Account Manager (Asia Pacific), The Collinson Group, 2015 – 2016
 
@@ -114,6 +114,13 @@
 
 ## [DATA SCIENCE PROJECTS](stevenleung2018.github.io)
 
+-   Public Service Data/AI Challenge (March 2025-ongoing): “Project
+    Advisor: Risk and Requirements Applications”
+    -   Performed proof-of-concept experiments in code
+        (Python/LangChain) to show that Retrieval-Augmented Generation
+        (RAG) workflow with Large-language Models (LLMs) can be used to
+        assist in the risk assessment and requirements gathering process
+        for public service projects.
 -   Capstone Project (May-Jun 2022): “Detection and Mitigation of Data
     Drift and Model Decay” for Goldspot Discoveries Corp.
     -   Engineered an adaptable Python framework that standardizes the

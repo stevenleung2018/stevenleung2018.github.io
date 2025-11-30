@@ -8,19 +8,22 @@
 
 ## PROFESSIONAL SUMMARY
 
--   2 years and 1 month of experience as Wildlife Application Specialist
-    at Canadian Wildlife Service (CWS), Environment and Climate Change
-    Canada (ECCC).
+-   2 years and 5 months of experience as Wildlife Application
+    Specialist at Canadian Wildlife Service (CWS), Environment and
+    Climate Change Canada (ECCC).
 -   Classification:
     -   Substantively PC-02
     -   Qualified in a partially-assessed pool for EC-03 (Data
         Scientist/Data Engineer/Data Analyst) with Public Health Agency
         of Canada (PHAC)
-    -   Qualified in a fully-assessed pool for IT-02 (IT Analyst) with
-        Shared Services Canada (SSC)
+    -   Qualified in a partially-assessed pool for EC-02 (Analyst) with
+        Statistics Canada (StatCan)
+    -   Qualified in a fully-assessed pools for IT-02 (IT Analyst) with
+        Environment and Climate Change Canada (ECCC) and Shared Services
+        Canada(SSC)
 -   Security: Reliability
--   2 years and 1 month of experience in data transformation/analysis in
-    Python and SQL
+-   2 years and 5 months of experience in data transformation/analysis
+    in Python and SQL
 -   4.5+ years of experience of artificial intelligence consultancy
 -   10+ years of experience as project management/technical consultancy
 -   Master of Data Science, UBC

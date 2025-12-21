@@ -8,7 +8,7 @@
 
 ## PROFESSIONAL SUMMARY
 
--   2 years and 5 months of experience as Wildlife Application
+-   2 years and 6 months of experience as Wildlife Application
     Specialist at Canadian Wildlife Service (CWS), Environment and
     Climate Change Canada (ECCC).
 -   Classification:
@@ -22,7 +22,7 @@
         Environment and Climate Change Canada (ECCC) and Shared Services
         Canada(SSC)
 -   Security: Reliability
--   2 years and 5 months of experience in data transformation/analysis
+-   2 years and 6 months of experience in data transformation/analysis
     in Python and SQL
 -   4.5+ years of experience of artificial intelligence consultancy
 -   10+ years of experience as project management/technical consultancy
@@ -33,20 +33,24 @@
 
 ### Wildlife Application Specialist (PC-02), CWS of ECCC, June 2023-Present
 
--   Spearhead the development of key materials, enhancing the
-    application modernization strategy as requested by management and
-    mandated by the Project Management Framework.
--   Deliver on-time release for the NRT project by providing Python and
-    SQL coding support, optimizing testing of PDF reports and data
-    pipeline development.
+-   Support end-to-end data solutions by providing Python and SQL
+    development for ETL-style data pipelines, PDF reporting, and
+    automated data quality checks.
+    -   Achievement: Increased automated data ingestion from 50% to over
+        70% (40% improvement) by experimenting different multi-stage
+        name-matching strategies and choosing the best, greatly reducing
+        manual effort and improving data timeliness.
 -   Ensure timely releases (100% success rate) for the SAR-DMTS by
     leading UATs, collaborating with SMEs across departments, and
     resolving critical issues through bug fixes or workarounds,
     contributing to the administration of the SARA ([Species at risk
     public
     registry](https://www.canada.ca/en/environment-climate-change/services/species-risk-public-registry.html)).
+-   Develop and enhance application modernization materials and
+    documentation, clarifying business processes, data flows and system
+    functionalities for internal stakeholders.
 
-### Project Consultant of A.I. / Head of Sales, ClusterTech Limited, 2016 – 2021
+### Project Consultant of A.I. / Head of Sales, ClusterTech Limited, November 2016-June 2021
 
 -   Drove the full customer lifecycle consultancy for data science
     projects, delivering solutions from pre-sales to delivery, resulting
@@ -57,13 +61,13 @@
 -   Secured lucrative contracts by crafting complex RFP responses in
     collaboration with the data science team and external partners.
 
-### Regional Account Manager (Asia Pacific), The Collinson Group, 2015 – 2016
+### Regional Account Manager (Asia Pacific), The Collinson Group, November 2015-November 2016
 
 -   Oversaw project implementation and product/market readiness for new
     deals, including digital lounge programs, maintaining 100% SLA
     compliance since Dec 2015 through proactive account servicing.
 
-### Business Solutions Consultant, Business Markets, SmarTone Mobile Communications Limited, 2013 – 2015
+### Business Solutions Consultant, Business Markets, SmarTone Mobile Communications Limited, August 2013-November 2015
 
 -   Led productization and implementation projects for B2B products and
     services, transitioning from initial qualification to market launch,

@@ -8,7 +8,7 @@
 
 ## PROFESSIONAL SUMMARY
 
--   2 years and 6 months of experience as Wildlife Application
+-   2 years and 11 months of experience as Wildlife Application
     Specialist at Canadian Wildlife Service (CWS), Environment and
     Climate Change Canada (ECCC).
 -   Classification:
@@ -22,12 +22,13 @@
         Environment and Climate Change Canada (ECCC) and Shared Services
         Canada(SSC)
 -   Security: Reliability
--   2 years and 6 months of experience in data transformation/analysis
+-   2 years and 11 months of experience in data transformation/analysis
     in Python and SQL
 -   4.5+ years of experience of artificial intelligence consultancy
 -   10+ years of experience as project management/technical consultancy
 -   Master of Data Science, UBC
 -   Project Management Professional (PMP) certified since 2017
+-   SLE French: Level BB, pending oral test
 
 ## RELEVANT PROFESSIONAL EXPERIENCE
 
@@ -121,7 +122,7 @@
 
 ## [DATA SCIENCE PROJECTS](stevenleung2018.github.io)
 
--   Public Service Data/AI Challenge (March 2025-ongoing): “Project
+-   Public Service Data/AI Challenge (March-June 2025): “Project
     Advisor: Risk and Requirements Applications”
     -   Performed proof-of-concept experiments in code
         (Python/LangChain) to show that Retrieval-Augmented Generation
@@ -176,16 +177,12 @@
     -   Guided and supported two MDS students, providing strategic
         advice and fostering professional development to prepare them
         for successful careers post-graduation in June 2024.
--   Workshop on Project Management for MDS students, UBC, April 2024
+-   Workshops on Project Management for MDS students, UBC, April
+    2024-March 2025
     -   Delivered a workshop on project management best practices,
         sharing insights on effective project planning, execution, and
         monitoring to enhance students’ understanding of project
         management principles.
-
-## OTHER EDUCATION
-
--   Leading for Success 10-Day Consortium Program, Executive Education,
-    Hong Kong University of Science and Technology 2015
 
 ## SPECIALIZED TRAINING / CERTIFICATIONS
 
@@ -199,5 +196,6 @@
 
 ## LANGUAGES
 
+-   French (SLE Level B for reading and written. Oral test pending.)
 -   Fluent in Chinese (Mandarin & Cantonese)
 -   Professionally Proficient in written Japanese (JLPT N1)

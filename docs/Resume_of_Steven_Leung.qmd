@@ -50,7 +50,7 @@ time_lapsed_str <- ifelse(years > 0 & months > 0,
     -   Substantively PC-02
     -   Qualified in a partially-assessed pool for EC-03 (Data Scientist/Data Engineer/Data Analyst) with Public Health Agency of Canada (PHAC)
     -   Qualified in a partially-assessed pool for EC-02 (Analyst) with Statistics Canada (StatCan)
-    -   Qualified in a fully-assessed pools for IT-02 (IT Analyst) with Environment and Climate Change Canada (ECCC) and Shared Services Canada(SSC)
+    -   Qualified in a fully-assessed pools for IT-02 (IT Analyst) with Environment and Climate Change Canada (ECCC) and Shared Services Canada (SSC)
 -   Security: Reliability
 -   `r time_lapsed_str` of experience in data transformation/analysis in Python and SQL
 -   4.5+ years of experience of artificial intelligence consultancy

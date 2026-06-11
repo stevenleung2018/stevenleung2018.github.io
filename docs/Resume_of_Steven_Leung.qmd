@@ -57,7 +57,7 @@ time_lapsed_str <- ifelse(years > 0 & months > 0,
 -   10+ years of experience as project management/technical consultancy
 -   Master of Data Science, UBC
 -   Project Management Professional (PMP) certified since 2017
--   SLE French: Level BB, pending oral test
+-   SLE French: Level BBA
 
 ## RELEVANT PROFESSIONAL EXPERIENCE
 

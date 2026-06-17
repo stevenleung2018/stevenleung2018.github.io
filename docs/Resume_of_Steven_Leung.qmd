@@ -50,14 +50,14 @@ time_lapsed_str <- ifelse(years > 0 & months > 0,
     -   Substantively PC-02
     -   Qualified in a partially-assessed pool for EC-03 (Data Scientist/Data Engineer/Data Analyst) with Public Health Agency of Canada (PHAC)
     -   Qualified in a partially-assessed pool for EC-02 (Analyst) with Statistics Canada (StatCan)
-    -   Qualified in a fully-assessed pools for IT-02 (IT Analyst) with Environment and Climate Change Canada (ECCC) and Shared Services Canada(SSC)
+    -   Qualified in a fully-assessed pools for IT-02 (IT Analyst) with Environment and Climate Change Canada (ECCC) and Shared Services Canada (SSC)
 -   Security: Reliability
 -   `r time_lapsed_str` of experience in data transformation/analysis in Python and SQL
 -   4.5+ years of experience of artificial intelligence consultancy
 -   10+ years of experience as project management/technical consultancy
 -   Master of Data Science, UBC
 -   Project Management Professional (PMP) certified since 2017
-
+-   SLE French: Level BBA
 
 ## RELEVANT PROFESSIONAL EXPERIENCE
 
@@ -110,7 +110,7 @@ time_lapsed_str <- ifelse(years > 0 & months > 0,
 
 ## [DATA SCIENCE PROJECTS](stevenleung2018.github.io)
 
--   Public Service Data/AI Challenge (March 2025-ongoing): "Project Advisor: Risk and Requirements Applications"
+-   Public Service Data/AI Challenge (March-June 2025): "Project Advisor: Risk and Requirements Applications"
     - Performed proof-of-concept experiments in code (Python/LangChain) to show that Retrieval-Augmented Generation (RAG) workflow with Large-language Models (LLMs) can be used to assist in the risk assessment and requirements gathering process for public service projects.
 -   Capstone Project (May-Jun 2022): "Detection and Mitigation of Data Drift and Model Decay" for Goldspot Discoveries Corp.
     -   Engineered an adaptable Python framework that standardizes the monitoring and detection of data drift and model decay across various datasets and models, resulting in a scalable solution for ongoing data integrity.
@@ -133,12 +133,8 @@ time_lapsed_str <- ifelse(years > 0 & months > 0,
 Provided constructive feedback on strengths and areas for improvement, simulating a real business setting.
 -   Mentor for MDS students (2 cohorts), UBC, November 2023-April 2025
     -   Guided and supported two MDS students, providing strategic advice and fostering professional development to prepare them for successful careers post-graduation in June 2024.
--   Workshop on Project Management for MDS students, UBC, April 2024
+-   Workshops on Project Management for MDS students, UBC, April 2024-March 2025
     -   Delivered a workshop on project management best practices, sharing insights on effective project planning, execution, and monitoring to enhance students' understanding of project management principles.
-
-## OTHER EDUCATION
-
--   Leading for Success 10-Day Consortium Program, Executive Education, Hong Kong University of Science and Technology 2015
 
 ## SPECIALIZED TRAINING / CERTIFICATIONS
 
@@ -151,5 +147,6 @@ Provided constructive feedback on strengths and areas for improvement, simulatin
 
 ## LANGUAGES
 
+-   French (SLE Level B for reading and written. Oral test pending.)
 -   Fluent in Chinese (Mandarin & Cantonese)
 -   Professionally Proficient in written Japanese (JLPT N1)

@@ -8,9 +8,9 @@
 
 ## PROFESSIONAL SUMMARY
 
--   3 years of experience as Wildlife Application Specialist at Canadian
-    Wildlife Service (CWS), Environment and Climate Change Canada
-    (ECCC).
+-   3 years and 1 month of experience as Wildlife Application Specialist
+    at Canadian Wildlife Service (CWS), Environment and Climate Change
+    Canada (ECCC).
 -   Classification:
     -   Substantively PC-02
     -   Qualified in a partially-assessed pool for EC-03 (Data
@@ -18,14 +18,15 @@
         of Canada (PHAC)
     -   Qualified in a partially-assessed pool for EC-02 (Analyst) with
         Statistics Canada (StatCan)
-    -   Qualified in a fully-assessed pools for IT-02 (IT Analyst) with
+    -   Qualified in 2 fully-assessed pools for IT-02 (IT Analyst) with
         Environment and Climate Change Canada (ECCC) and Shared Services
         Canada (SSC)
 -   Security: Reliability
--   3 years of experience in data transformation/analysis in Python and
-    SQL
--   4.5+ years of experience of artificial intelligence consultancy
--   10+ years of experience as project management/technical consultancy
+-   3 years and 1 month of experience in data transformation/analysis in
+    Python and SQL
+-   4.5+ years of experience in artificial intelligence consultancy
+-   10+ years of experience in project management and technical
+    consultancy
 -   Master of Data Science, UBC
 -   Project Management Professional (PMP) certified since 2017
 -   SLE French: Level BBA
@@ -38,9 +39,9 @@
     development for ETL-style data pipelines, PDF reporting, and
     automated data quality checks.
     -   Achievement: Increased automated data ingestion from 50% to over
-        70% (40% improvement) by experimenting different multi-stage
-        name-matching strategies and choosing the best, greatly reducing
-        manual effort and improving data timeliness.
+        70% (40% improvement) by experimenting with different
+        multi-stage name-matching strategies and choosing the best,
+        greatly reducing manual effort and improving data timeliness.
 -   Ensure timely releases (100% success rate) for the SAR-DMTS by
     leading UATs, collaborating with SMEs across departments, and
     resolving critical issues through bug fixes or workarounds,
@@ -139,8 +140,8 @@
         Learn, Autoencoders, PCA, confidence distribution analysis,
         image property evaluation, and statistical tests to ensure
         robust performance.
--   Cloud Deployment of Machine Learning Model (Mar-Apr 2022): Deploying
-    an API on AWS to predict daily rainfall in Sydney, Australia.
+-   Cloud Deployment of Machine Learning Model (Mar-Apr 2022): API on
+    AWS to predict daily rainfall in Sydney, Australia.
     -   Orchestrated the deployment of a machine learning model on AWS,
         leveraging EC2, S3, and EMR to process a large public dataset,
         enabling accurate daily rainfall predictions.
@@ -170,9 +171,9 @@
     -   Acted as the team’s simulated client, answering questions about
         business requirements and providing guidance.
     -   Attended and evaluated data visualization presentations (e.g.,
-        Tableau dashboards) from all teams. Provided constructive
-        feedback on strengths and areas for improvement, simulating a
-        real business setting.
+        Tableau dashboards) from all teams.
+    -   Provided constructive feedback on strengths and areas for
+        improvement, simulating a real business setting.
 -   Mentor for MDS students (2 cohorts), UBC, November 2023-April 2025
     -   Guided and supported two MDS students, providing strategic
         advice and fostering professional development to prepare them
@@ -196,6 +197,6 @@
 
 ## LANGUAGES
 
--   French (SLE Level B for reading and written. Oral test pending.)
+-   French (SLE Level B for reading and written. Level A for oral.)
 -   Fluent in Chinese (Mandarin & Cantonese)
 -   Professionally Proficient in written Japanese (JLPT N1)

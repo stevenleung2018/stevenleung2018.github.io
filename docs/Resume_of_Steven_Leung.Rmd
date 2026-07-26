@@ -50,11 +50,11 @@ time_lapsed_str <- ifelse(years > 0 & months > 0,
     -   Substantively PC-02
     -   Qualified in a partially-assessed pool for EC-03 (Data Scientist/Data Engineer/Data Analyst) with Public Health Agency of Canada (PHAC)
     -   Qualified in a partially-assessed pool for EC-02 (Analyst) with Statistics Canada (StatCan)
-    -   Qualified in a fully-assessed pools for IT-02 (IT Analyst) with Environment and Climate Change Canada (ECCC) and Shared Services Canada (SSC)
+    -   Qualified in 2 fully-assessed pools for IT-02 (IT Analyst) with Environment and Climate Change Canada (ECCC) and Shared Services Canada (SSC)
 -   Security: Reliability
 -   `r time_lapsed_str` of experience in data transformation/analysis in Python and SQL
--   4.5+ years of experience of artificial intelligence consultancy
--   10+ years of experience as project management/technical consultancy
+-   4.5+ years of experience in artificial intelligence consultancy
+-   10+ years of experience in project management and technical consultancy
 -   Master of Data Science, UBC
 -   Project Management Professional (PMP) certified since 2017
 -   SLE French: Level BBA
@@ -64,7 +64,7 @@ time_lapsed_str <- ifelse(years > 0 & months > 0,
 ### Wildlife Application Specialist (PC-02), CWS of ECCC, June 2023-Present
 
 -   Support end-to-end data solutions by providing Python and SQL development for ETL-style data pipelines, PDF reporting, and automated data quality checks.  
-    - Achievement: Increased automated data ingestion from 50% to over 70% (40% improvement) by experimenting different multi-stage name-matching strategies and choosing the best, greatly reducing manual effort and improving data timeliness.
+    - Achievement: Increased automated data ingestion from 50% to over 70% (40% improvement) by experimenting with different multi-stage name-matching strategies and choosing the best, greatly reducing manual effort and improving data timeliness.
 -   Ensure timely releases (100% success rate) for the SAR-DMTS by leading UATs, collaborating with SMEs across departments, and resolving critical issues through bug fixes or workarounds, contributing to the administration of the SARA ([Species at risk public registry](https://www.canada.ca/en/environment-climate-change/services/species-risk-public-registry.html)).
 -   Develop and enhance application modernization materials and documentation, clarifying business processes, data flows and system functionalities for internal stakeholders.
 
@@ -115,7 +115,7 @@ time_lapsed_str <- ifelse(years > 0 & months > 0,
 -   Capstone Project (May-Jun 2022): "Detection and Mitigation of Data Drift and Model Decay" for Goldspot Discoveries Corp.
     -   Engineered an adaptable Python framework that standardizes the monitoring and detection of data drift and model decay across various datasets and models, resulting in a scalable solution for ongoing data integrity.
     -   Utilized advanced tools and techniques such as PyTorch, Sci-kit Learn, Autoencoders, PCA, confidence distribution analysis, image property evaluation, and statistical tests to ensure robust performance.
--   Cloud Deployment of Machine Learning Model (Mar-Apr 2022): Deploying an API on AWS to predict daily rainfall in Sydney, Australia.
+-   Cloud Deployment of Machine Learning Model (Mar-Apr 2022): API on AWS to predict daily rainfall in Sydney, Australia.
     -   Orchestrated the deployment of a machine learning model on AWS, leveraging EC2, S3, and EMR to process a large public dataset, enabling accurate daily rainfall predictions.
 -   [DoggoDash](https://doggodash.onrender.com) (Feb-Mar 2022): An interactive dashboard for recommending dogs to potential owners.
     -   Created an engaging web application that recommends suitable dog breeds to prospective owners by analyzing user preferences, hosted on Heroku with dynamic visualizations powered by Plotly.
@@ -130,7 +130,7 @@ time_lapsed_str <- ifelse(years > 0 & months > 0,
     -   Mentored a student team as they prepared for their hackathon, simulating a real-world business scenario.
     - Acted as the team's simulated client, answering questions about business requirements and providing guidance.
     - Attended and evaluated data visualization presentations (e.g., Tableau dashboards) from all teams.
-Provided constructive feedback on strengths and areas for improvement, simulating a real business setting.
+    - Provided constructive feedback on strengths and areas for improvement, simulating a real business setting.
 -   Mentor for MDS students (2 cohorts), UBC, November 2023-April 2025
     -   Guided and supported two MDS students, providing strategic advice and fostering professional development to prepare them for successful careers post-graduation in June 2024.
 -   Workshops on Project Management for MDS students, UBC, April 2024-March 2025
@@ -147,6 +147,6 @@ Provided constructive feedback on strengths and areas for improvement, simulatin
 
 ## LANGUAGES
 
--   French (SLE Level B for reading and written. Oral test pending.)
+-   French (SLE Level B for reading and written. Level A for oral.)
 -   Fluent in Chinese (Mandarin & Cantonese)
 -   Professionally Proficient in written Japanese (JLPT N1)

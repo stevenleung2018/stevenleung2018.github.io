@@ -1,5 +1,5 @@
 ---
-title: "How to set up and type French on US English keyboards"
+title: "How to set up and type French _occasionally_ on US English keyboards"
 author: "Steven Leung"
 date: "`r Sys.Date()`"
 output: html_document
@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Summary
 
--   In this file, I explain how to type French letters and punctuation on computers which are equipped with US English keyboards.
+-   In this file, I explain how to type French letters and punctuation on computers which are equipped with US English keyboards if you do this _occasionally_. I intend to either update this one or create a new one if I find a better way to do this for those who type French _often_. It is a work in progress. 
 
 -   It is based on the fact that I am primarily an anglophone learning French. In order words, I will minimize the learning required to be able to type French. There is no need to learn any new keyboard layout (like `AZERTY` in France or `CSA` in Canada). The focus will be on how to type the "extra" French things that are not usually required when typing English.
 
@@ -75,7 +75,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 #### Accent aigu (e.g. `é`, `É`)
 
--   You would press `option+e`, release, and type the letter underneath the accent aigu. For instance, if you want to type `é` (the small letter `e` with accent aigu), it would be `option+e`, relese, then type `e`. If it is `É`, it would be `option+e` and `E`. (If Caps Lock is not already on, it would be `shift+e`.) Again, there are two key strokes for one letter. 
+-   You would press `option+e`, release, and type the letter underneath the accent aigu. For instance, if you want to type `é` (the small letter `e` with accent aigu), it would be `option+e`, release, then type `e`. If it is `É`, it would be `option+e` and `E`. (If Caps Lock is not already on, it would be `shift+e`.) Again, there are two key strokes for one letter. 
 
 #### Accent grave (e.g. `à`, `è`)
 -   You would type `option+backtick` where `backtick` stands for the key which is left to the number `1` on the keyboard which looks exactly like the accent grave itself, release, and then type the letter underneath the accent grave. For instance, if you want to type `à`, you would type `option+backtick`, release, then type `a`. 

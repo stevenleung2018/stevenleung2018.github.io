@@ -70,14 +70,14 @@ During the course DSCI 525 of UBC MDS 2021-22 cohort, we were tasked to deployin
 -   Set up S3 bucket and moved data there (in `parquet` file format).
 -   Got the data from S3 bucket and did data wrangling on local machine. We filtered the data so that we only modelled on the data for Sydney while the dataset had that for the whole State of New South Wales of Australia.
 -   Put the filtered data (in CSV format) back to the S3 bucket. The following was what we had in the S3 bucket at the end of Milestone 2:![screen_m2_t5](https://raw.githubusercontent.com/UBC-MDS/web_and_cloud_group_1/main/notebooks/screencap/screen-milestone2-task5.png)
--   *At the end of Milestone 2, we could collaborate on the data on AWS, taking available of its performance and scalability.*
+-   *At the end of Milestone 2, we could collaborate on the data on AWS, taking advantage of its performance and scalability.*
 
 ### Milestone 3
 
 -   Created EMR cluster instance on AWS. ![m3_t1](https://raw.githubusercontent.com/UBC-MDS/web_and_cloud_group_1/main/notebooks/milestone3/images/Task1.png)
 -   Set up browser, Jupyter environment and connect to the master node of the EMR cluster. ![m3_t2](https://raw.githubusercontent.com/UBC-MDS/web_and_cloud_group_1/main/notebooks/milestone3/images/Task2.png)
 -   Developed ML models (including a Random Forest Model) using scikit-learn on local machine.\
--   Performed hyperparameter tuning using Apache Spark MLlib. The model was saved to the S3 bucket. ![m3_t3](https://raw.githubusercontent.com/UBC-MDS/web_and_cloud_group_1/main/notebooks/milestone3/images/Task3_model.png)
+-   Performed hyperparameter tuning using Apache Spark MLLib. The model was saved to the S3 bucket. ![m3_t3](https://raw.githubusercontent.com/UBC-MDS/web_and_cloud_group_1/main/notebooks/milestone3/images/Task3_model.png)
 
 ### Milestone 4
 

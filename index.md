@@ -2,7 +2,7 @@ Welcome to my GitHub pages!
 
 # Technical Projects
 
-## Species at Risk (SAR) Briefing Agent
+## Species at Risk (SAR) Briefing Agent (August 2026): a project of Retrieval-Augmented Generation (RAG)
 
 - This project is about the design and implementation of a briefing agent that can answer questions about Species at Risk Act (SARA) in Canada. The agent is built using a combination of natural language processing (NLP) techniques and machine learning models to provide accurate and relevant information to users.
 - The project is being implemented in multiple phases. 

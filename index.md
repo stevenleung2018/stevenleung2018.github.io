@@ -7,7 +7,7 @@ Welcome to my GitHub pages!
 - This project is about the design and implementation of a briefing agent that can answer questions about Species at Risk Act (SARA) in Canada. The agent is built using a combination of natural language processing (NLP) techniques and machine learning models to provide accurate and relevant information to users.
 - The project is being implemented in multiple phases. 
   - Phase 1: A chatbot is trained on a dataset of SARA-related documents and is able to answer questions about the act completely LOCALLY, meaning that the agent can use a local LLM model running Retrival Augumented Generation (RAG) with a set of offline documents. One of the reason for doing this is to demonstrate the potential of creating AI tools without relating on external cloud-based AI service providers.
-    - A recorded demo of the chatbot can be found [here](videos/chatbot_phase_1_2026-08-26.mov).
+    - A recorded demo of the chatbot can be found [here](videos/chatbot_phase_1_2026-08-16.mov).
 
 ## Detection and Mitigation of Data Drift and Model Decay (May-June 2022): a capstone project with partner Goldspot Discoveries Corp.
 

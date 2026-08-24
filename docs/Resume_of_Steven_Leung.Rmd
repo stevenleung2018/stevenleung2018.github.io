@@ -110,6 +110,7 @@ time_lapsed_str <- ifelse(years > 0 & months > 0,
 
 ## [DATA SCIENCE PROJECTS](stevenleung2018.github.io)
 
+-   Species at Risk Briefing Agent (August 2026-ongoing): an agentic AI chatbot that takes a plain-language question and returns a clear, evidence-grounded answer from documents and the public registry of the Species at Risk Act (SARA) using Retrieval-Augmented Generation (RAG) workflow with Large-language Models (LLMs). [short demo video](https://stevenleung2018.github.io/videos/chatbot_phase_1_2026-08-16.mp4) and [repository](https://github.com/stevenleung2018/SAR_Briefing_Agent)
 -   Public Service Data/AI Challenge (March-June 2025): "Project Advisor: Risk and Requirements Applications"
     - Performed proof-of-concept experiments in code (Python/LangChain) to show that Retrieval-Augmented Generation (RAG) workflow with Large-language Models (LLMs) can be used to assist in the risk assessment and requirements gathering process for public service projects.
 -   Capstone Project (May-Jun 2022): "Detection and Mitigation of Data Drift and Model Decay" for Goldspot Discoveries Corp.
@@ -119,10 +120,6 @@ time_lapsed_str <- ifelse(years > 0 & months > 0,
     -   Orchestrated the deployment of a machine learning model on AWS, leveraging EC2, S3, and EMR to process a large public dataset, enabling accurate daily rainfall predictions.
 -   [DoggoDash](https://doggodash.onrender.com) (Feb-Mar 2022): An interactive dashboard for recommending dogs to potential owners.
     -   Created an engaging web application that recommends suitable dog breeds to prospective owners by analyzing user preferences, hosted on Heroku with dynamic visualizations powered by Plotly.
--   EDAhelper (Jan-Feb 2022): Open-source software packages in Python and R for simplifying Exploratory Data Analysis.
-    -   Developed open-source software packages that transform complex Exploratory Data Analysis into one-line codes, streamlining the data exploration process for analysts.
--   Olympic Medals (Nov-Dec 2021): A reproducible data science report on the impact of age on winning medals
-    -   Conducted a comprehensive study using reproducible data science techniques to test the hypothesis that age is a factor in winning Olympic medals, yielding insights into the correlation between age and athletic performance.
 
 ## VOLUNTEERING
 
@@ -148,5 +145,3 @@ time_lapsed_str <- ifelse(years > 0 & months > 0,
 ## LANGUAGES
 
 -   French (SLE Level B for reading and written. Level A for oral.)
--   Fluent in Chinese (Mandarin & Cantonese)
--   Professionally Proficient in written Japanese (JLPT N1)

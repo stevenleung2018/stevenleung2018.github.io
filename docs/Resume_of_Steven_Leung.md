@@ -8,9 +8,9 @@
 
 ## PROFESSIONAL SUMMARY
 
--   3 years and 1 month of experience as Wildlife Application Specialist
-    at Canadian Wildlife Service (CWS), Environment and Climate Change
-    Canada (ECCC).
+-   3 years and 2 months of experience as Wildlife Application
+    Specialist at Canadian Wildlife Service (CWS), Environment and
+    Climate Change Canada (ECCC).
 -   Classification:
     -   Substantively PC-02
     -   Qualified in a partially-assessed pool for EC-03 (Data
@@ -22,8 +22,8 @@
         Environment and Climate Change Canada (ECCC) and Shared Services
         Canada (SSC)
 -   Security: Reliability
--   3 years and 1 month of experience in data transformation/analysis in
-    Python and SQL
+-   3 years and 2 months of experience in data transformation/analysis
+    in Python and SQL
 -   4.5+ years of experience in artificial intelligence consultancy
 -   10+ years of experience in project management and technical
     consultancy

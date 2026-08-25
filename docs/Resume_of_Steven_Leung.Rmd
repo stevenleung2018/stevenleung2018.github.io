@@ -142,3 +142,4 @@ time_lapsed_str <- ifelse(years > 0 & months > 0,
 ## LANGUAGES
 
 -   French (SLE: Reading B, Writing B, Oral A.)
+
